@@ -1,6 +1,6 @@
 TgCrypto
 pyrogram
-youtube_dl
+https://github.com/Aanchal101/tube/archive/refs/heads/master.zip
 wget
 pillow
 hachoir
