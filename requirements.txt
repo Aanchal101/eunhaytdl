@@ -4,3 +4,4 @@ youtube_dl
 wget
 pillow
 hachoir
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/archive/refs/heads/master.zip
