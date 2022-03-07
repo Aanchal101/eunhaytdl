@@ -6,9 +6,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 async def start(client, message):
     # return
     joinButton = InlineKeyboardMarkup([
-        [InlineKeyboardButton("More", url="https://t.me/Namexian/36")],
+        [InlineKeyboardButton("For Movies", url="https://t.me/INDIAHDM0VIES")],
         [InlineKeyboardButton(
-            "Report Bugs 😊", url="https://t.me/EunhaChatbot")]
+            "Report Bugs 😊", url="https://t.me/Anshu888o")]
     ])
     welcomed = f"Hey <b>{message.from_user.first_name}</b>\n/help for More info"
     await message.reply_text(welcomed, reply_markup=joinButton)
