@@ -4,4 +4,4 @@ https://github.com/Aanchal101/tube/archive/refs/heads/master.zip
 wget
 pillow
 hachoir
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/archive/refs/heads/master.zip
+ffmpeg-python
